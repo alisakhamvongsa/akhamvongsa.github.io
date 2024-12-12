@@ -8,7 +8,6 @@ My GitHub page is http://github.com/akhamvongsa.
 
 ### CPSC 120
 
-
 Lab 5
 
     Lab 5, part 1 was a favorite because it taught me how important formatting was. I remember vividly struggling with formatting with this particular lab due to how many extra spaces and incorrect sign placement. It also taught me how to use double and float, and working with negative numbers.
